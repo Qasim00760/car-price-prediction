@@ -20,7 +20,7 @@ Based on the [100,000 UK Used Car Data set](https://www.kaggle.com/datasets/adit
 
 | Column | Description |
 |---|---|
-| model | Car model, 196 in total |
+| model | Car model, 195 in total after trimming spaces |
 | year | Registration year |
 | price | Listed price in pounds (target) |
 | transmission | Manual, Automatic or Semi-Auto |
