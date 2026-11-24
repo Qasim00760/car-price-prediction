@@ -1,0 +1,5 @@
+model,MAE_gbp,MAPE_%,R2
+Baseline (median price),6775.0,47.0,-0.0502
+Ridge Regression,2120.0,13.2,0.8617
+Random Forest,1138.0,7.2,0.9657
+Gradient Boosting,1072.0,6.6,0.9703
