@@ -2,7 +2,7 @@
 
 Analysis of 96,726 UK used car listings and a Gradient Boosting model that estimates a fair price from a car's make, model, age, mileage and specification. On unseen listings it is accurate to within 6.6% on average (R2 0.970).
 
-**Live demo:** LIVE_DEMO_URL
+**Live demo:** https://mq-car-price-prediction.streamlit.app/
 
 ![Depreciation](reports/figures/depreciation.png)
 
